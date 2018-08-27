@@ -4,7 +4,7 @@ HellChe is the coolest tool for your health.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/diescake/hellche/master/image/logo.png" alt="Size Limit example"
-       width="350" height="350">
+       width="820" height="312">
 </p>
 
 ## How It Works
