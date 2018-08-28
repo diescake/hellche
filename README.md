@@ -1,6 +1,6 @@
 # HellChe
 
-HellChe is the coolest tool for your health.
+HellChe is the coolest and highly immersive tool for your health.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/diescake/hellche/master/image/logo.png" alt="Size Limit example"
