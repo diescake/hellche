@@ -11,7 +11,7 @@ HellChe is the coolest and highly immersive tool for your health.
 
 T.B.D.
 
-## usage
+## Usage
 
 T.B.D.
 
